@@ -1,2 +1,17 @@
-1. Scaricare l'ide Spring Tools Suite da questa url : https://spring.io/tools#eclipse
-2. Scaricare Spring Tools for Eclipse compatibile con il vostro sistema operativo.
+# Guida all’installazione e avvio dell’IDE di sviluppo
+
+1. Scaricare l’IDE **Spring Tools Suite** dal sito ufficiale:
+   [Spring Tools Suite](https://spring.io/tools?utm_source=chatgpt.com#eclipse)
+
+2. Selezionare e scaricare la versione di **Spring Tools for Eclipse** compatibile con il proprio sistema operativo.
+
+3. Al termine del download:
+
+   * rinominare il file `.zip` in `spring-tools-for-eclipse`
+   * estrarre il contenuto dell’archivio in una cartella a scelta.
+
+4. Aprire la cartella estratta ed eseguire il file:
+   `spring-tools-for-eclipse\sts-5.1.1.RELEASE\SpringToolsForEclipse.exe`
+
+5. Attendere l’avvio dell’ambiente di sviluppo e completare l’eventuale configurazione iniziale.
+
