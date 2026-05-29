@@ -15,3 +15,8 @@
 
 5. Attendere l’avvio dell’ambiente di sviluppo e completare l’eventuale configurazione iniziale.
 
+# Guida all'installazione e avvio di MySQL Workbench (è uno strumento visuale di progettazione per database, che integra sviluppo SQL, gestione, 
+modellazione dati, creazione e manutenzione di database MySQL all'interno di un unico ambiente sinergico.)
+
+1. Scaricare dal sito ufficiale:
+   [https://dev.mysql.com/downloads/workbench/]
